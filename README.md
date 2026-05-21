@@ -1,3 +1,11 @@
+
+还有一个：design-essentials（GitHub 官方推荐集合）
+
+地址：https://github.com/collections/design-essentials
+
+特点：GitHub 官方整理的“设计基石”集合，包含了 Bootstrap、Tailwind 等最流行的前端 UI 框架和图标库仓库。
+
+
 <a href="https://github.com/VoltAgent/voltagent">
      <img width="1500"  alt="claude-skills" src="https://github.com/user-attachments/assets/d012a0d2-cec3-4630-ba5e-acc339dbe6cf" />
 </a>
